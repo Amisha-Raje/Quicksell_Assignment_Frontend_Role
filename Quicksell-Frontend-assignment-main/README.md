@@ -11,7 +11,7 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 
 
-## Sneak Peek of  Kanban-Board 🙈 :
+## Kanban-Board :
 
 <table>
   <tr>
